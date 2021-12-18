@@ -16,5 +16,13 @@
 
 ![deletar](https://user-images.githubusercontent.com/87431289/146653214-d22069ac-05ce-4ab7-bc49-0f38ae3f0d86.png)
 
+<h1>Tecnologias</h1>
 
-
+-Java <p>
+-HTML <p>
+-CSS <p>
+-JavaScript <p>
+-BootStrap <p>
+-PostgreSQL 
+ 
+  
